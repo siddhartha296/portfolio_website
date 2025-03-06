@@ -53,7 +53,7 @@ function App() {
           <section className="backdrop-blur-lg bg-white/5 rounded-2xl p-8 transform hover:scale-[1.01] transition-transform">
             <h2 className="text-2xl font-bold mb-4 text-blue-300">Summary</h2>
             <p className="text-gray-300 leading-relaxed">
-              I am Siddhartha pittala, a computer science enthusiast with experience in web development, 
+              Hello !,I am Siddhartha pittala, a computer science enthusiast with experience in web development, 
               including building and deploying websites using React and Google Firebase for college startups. 
               I have hands-on expertise in AI model deployment and a strong understanding of modern computer 
               science technologies and advancements. Passionate about innovation, I stay updated with the 
