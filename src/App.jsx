@@ -56,7 +56,7 @@ function App() {
               Hello !,I am Siddhartha pittala, a computer science enthusiast with experience in web development, 
               including building and deploying websites using React and Google Firebase for college startups. 
               I have hands-on expertise in AI model deployment and a strong understanding of modern computer 
-              science technologies and advancements. Passionate about innovation, I stay updated with the 
+              science technologies and advancements.Passionate about innovation, I stay updated with the 
               latest trends in AI and development.
             </p>
           </section>
