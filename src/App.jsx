@@ -112,7 +112,7 @@ function App() {
                 <h3 className="text-xl font-semibold text-purple-300 mb-2">AI Model Deployment</h3>
                 <p className="text-sm text-blue-200 mb-3">Personal • 08/2024 - Present</p>
                 <ul className="list-disc list-inside text-gray-300 space-y-2">
-                  <li>Local deployment of various AI models using Ollama</li>
+                  <li>Local deployment of various AI models such as llama3.1,mistral,deepseek r1 using Ollama</li>
                   <li>Integrated web UI for user-friendly interactions</li>
                   <li>Built chat bot functionality for websites</li>
                 </ul>
@@ -136,8 +136,8 @@ function App() {
               <h2 className="text-2xl font-bold text-blue-300 mb-4">Education</h2>
               <div>
                 <h3 className="text-lg font-semibold text-purple-300">VR Siddhartha Engineering College</h3>
-                <p className="text-gray-300">B.Tech in Information Technology (Data Science Honors)</p>
-                <p className="text-blue-200 text-sm">CGPA: 9/10 • 2022 - Present</p>
+                <p className="text-gray-300">B.Tech in Information Technology</p>
+                <p className="text-blue-200 text-sm">CGPA:8.70/10 • 2022 - Present</p>
               </div>
             </section>
 
